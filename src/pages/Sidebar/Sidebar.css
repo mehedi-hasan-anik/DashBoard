@@ -1,0 +1,21 @@
+.sidebar-container {
+    border-right:  1px solid #DDB347;
+    width: 300px;
+    padding: 10px;
+    min-height: 100vh;
+}
+.sidebar-wrapper {
+    display: flex;
+}
+.sidebar-wrapper h1 {
+    font-size: 2rem;
+}
+.sidebar-wrapper ul {
+    list-style: none;
+}
+
+.sidebar-wrapper ul li{
+    margin-top: 10px;
+    font-size: 1.1rem;
+    cursor: pointer;
+}
